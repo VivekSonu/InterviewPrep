@@ -1,0 +1,14 @@
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day3-OOP Concepts\obj\Debug\net8.0\Day3-OOP Concepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day3-OOP Concepts\obj\Debug\net8.0\Day3-OOP Concepts.AssemblyInfoInputs.cache
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day3-OOP Concepts\obj\Debug\net8.0\Day3-OOP Concepts.AssemblyInfo.cs
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day3-OOP Concepts\obj\Debug\net8.0\Day3-OOP Concepts.csproj.CoreCompileInputs.cache
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day3-OOP Concepts\bin\Debug\net8.0\Day3-OOP Concepts.exe
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day3-OOP Concepts\bin\Debug\net8.0\Day3-OOP Concepts.deps.json
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day3-OOP Concepts\bin\Debug\net8.0\Day3-OOP Concepts.runtimeconfig.json
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day3-OOP Concepts\bin\Debug\net8.0\Day3-OOP Concepts.dll
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day3-OOP Concepts\bin\Debug\net8.0\Day3-OOP Concepts.pdb
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day3-OOP Concepts\obj\Debug\net8.0\Day3-OOP Concepts.dll
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day3-OOP Concepts\obj\Debug\net8.0\refint\Day3-OOP Concepts.dll
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day3-OOP Concepts\obj\Debug\net8.0\Day3-OOP Concepts.pdb
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day3-OOP Concepts\obj\Debug\net8.0\Day3-OOP Concepts.genruntimeconfig.cache
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day3-OOP Concepts\obj\Debug\net8.0\ref\Day3-OOP Concepts.dll

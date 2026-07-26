@@ -1,0 +1,14 @@
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day4-SOLID\obj\Debug\net8.0\Day4-SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day4-SOLID\obj\Debug\net8.0\Day4-SOLID.AssemblyInfoInputs.cache
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day4-SOLID\obj\Debug\net8.0\Day4-SOLID.AssemblyInfo.cs
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day4-SOLID\obj\Debug\net8.0\Day4-SOLID.csproj.CoreCompileInputs.cache
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day4-SOLID\bin\Debug\net8.0\Day4-SOLID.exe
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day4-SOLID\bin\Debug\net8.0\Day4-SOLID.deps.json
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day4-SOLID\bin\Debug\net8.0\Day4-SOLID.runtimeconfig.json
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day4-SOLID\bin\Debug\net8.0\Day4-SOLID.dll
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day4-SOLID\bin\Debug\net8.0\Day4-SOLID.pdb
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day4-SOLID\obj\Debug\net8.0\Day4-SOLID.dll
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day4-SOLID\obj\Debug\net8.0\refint\Day4-SOLID.dll
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day4-SOLID\obj\Debug\net8.0\Day4-SOLID.pdb
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day4-SOLID\obj\Debug\net8.0\Day4-SOLID.genruntimeconfig.cache
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day4-SOLID\obj\Debug\net8.0\ref\Day4-SOLID.dll

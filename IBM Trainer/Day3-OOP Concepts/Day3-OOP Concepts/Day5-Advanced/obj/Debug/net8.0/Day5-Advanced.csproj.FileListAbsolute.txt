@@ -1,0 +1,14 @@
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day5-Advanced\bin\Debug\net8.0\Day5-Advanced.exe
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day5-Advanced\bin\Debug\net8.0\Day5-Advanced.deps.json
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day5-Advanced\bin\Debug\net8.0\Day5-Advanced.runtimeconfig.json
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day5-Advanced\bin\Debug\net8.0\Day5-Advanced.dll
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day5-Advanced\bin\Debug\net8.0\Day5-Advanced.pdb
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day5-Advanced\obj\Debug\net8.0\Day5-Advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day5-Advanced\obj\Debug\net8.0\Day5-Advanced.AssemblyInfoInputs.cache
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day5-Advanced\obj\Debug\net8.0\Day5-Advanced.AssemblyInfo.cs
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day5-Advanced\obj\Debug\net8.0\Day5-Advanced.csproj.CoreCompileInputs.cache
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day5-Advanced\obj\Debug\net8.0\Day5-Advanced.dll
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day5-Advanced\obj\Debug\net8.0\refint\Day5-Advanced.dll
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day5-Advanced\obj\Debug\net8.0\Day5-Advanced.pdb
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day5-Advanced\obj\Debug\net8.0\Day5-Advanced.genruntimeconfig.cache
+C:\Users\remya\Desktop\Linkdin Interview Question Images\Projects-10Days\Day3-OOP Concepts\Day5-Advanced\obj\Debug\net8.0\ref\Day5-Advanced.dll
